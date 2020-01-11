@@ -6,3 +6,4 @@ JavaScript的小项目
 
 
 
+修复了 一个bug
